@@ -1,0 +1,5 @@
+﻿  Project.cpp
+C:\Users\Yrmary Medina Delgad\Documents\personal\test_amadeus\test_amadeus\Project.cpp(91,23): warning C4018: '<': no coinciden signed/unsigned
+  test_amadeus.vcxproj -> C:\Users\Yrmary Medina Delgad\Documents\personal\test_amadeus\test_amadeus\x64\Debug\test_amadeus.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.

@@ -1,0 +1,35 @@
+{
+"employees":
+  [
+    {
+    "name": "John Doe",
+    "id": 101,
+    "department": "HR",
+    "salary": 50000
+    },
+    {
+      "name": "Jane Smith",
+      "id": 102,
+      "department": "Engineering",
+      "salary": 60000
+    },
+    {
+      "name": "Juliet Martinez",
+      "id": 103,
+      "department": "Engineering",
+      "salary": 40000
+    },
+    {
+      "name": "Orlando Perez",
+      "id": 104,
+      "department": "Engineering",
+      "salary": 50000
+    },
+    {
+      "name": "Enrique Leal",
+      "id": 105,
+      "department": "Engineering",
+      "salary": 55000
+    }
+  ]
+}
